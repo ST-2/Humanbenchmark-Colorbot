@@ -1,6 +1,7 @@
 # Humanbenchmark-Colorbot
 
 This setup tutorial is made for Windows! If your OS isn't Windows installation steps may vary!
+
 Hi, community Discord!
 
 ## Installation
