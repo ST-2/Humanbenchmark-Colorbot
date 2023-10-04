@@ -1,6 +1,6 @@
 # Humanbenchmark-Colorbot
 
-
+#This setup tutorial is made for Windows! If your OS isn't Windows installation steps may vary!
 
 ## Installation
 
@@ -38,7 +38,3 @@
 - pyautogui
 - colorama
 - keyboard
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
