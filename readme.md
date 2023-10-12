@@ -2,7 +2,9 @@
 
 This setup tutorial is made for Windows! If your OS isn't Windows installation steps may vary!
 
-Hi, community Discord!
+
+https://github.com/ST-2/Humanbenchmark-Colorbot/assets/125838106/e27f1cde-b0fb-4e7e-bdf1-527d03b5e560
+
 
 ## Installation
 
